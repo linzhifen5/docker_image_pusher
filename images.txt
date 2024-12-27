@@ -1,1 +1,1 @@
-mongo:4.4.9
+dqzboy/mirror-hub
