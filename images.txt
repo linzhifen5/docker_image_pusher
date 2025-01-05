@@ -1,1 +1,1 @@
-dqzboy/mirror-hub
+bitnami/redis
